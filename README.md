@@ -1,0 +1,2 @@
+# amvgg
+Amvgg is a powerful Adopt Me trade value calculator designed to help players make smarter trading decisions. It provides accurate and regularly updated pet values to ensure fair comparisons. Easily check whether a trade is Win, Fair, or Lose within seconds. The platform is simple to use and suitable for both new and experienced traders. With [Amvgg](https://amvgg.net/), you can trade confidently and maximize your in-game value.
